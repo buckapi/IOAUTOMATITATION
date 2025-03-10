@@ -25,7 +25,7 @@
   --erepair-gray-rgb: 110, 119, 125;
   --erepair-white: #ffffff;
   --erepair-white-rgb: 255, 255, 255;
-  --erepair-base: #2AB97E;
+  --erepair-base: #20684A;
   --erepair-base-rgb: 42, 185, 126;
   --erepair-black: #171717;
   --erepair-black-rgb: 23, 23, 23;
@@ -868,7 +868,7 @@ ul {
   align-items: center;
   justify-content: space-between;
   flex-wrap: wrap;
-  background-color: #20684A;
+  background-color: #26484a;
   padding: 5px 150px;
 }
 
@@ -2033,7 +2033,7 @@ ul {
 .main-menu-three__top {
   position: relative;
   display: block;
-  background-color: #20684A;
+  background-color: #26484a;
 }
 
 .main-menu-three__top-inner {
